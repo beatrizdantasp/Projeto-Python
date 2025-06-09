@@ -2,18 +2,19 @@
 
 ![Screenshot da Interface](interface.png)
 
-Um sistema completo para gerenciamento de biblioteca com interface gráfica, desenvolvido em Python com Tkinter e armazenamento em JSON.
+Um sistema completo para gerenciamento de bibliotecas com interface gráfica moderna, desenvolvido em Python com Tkinter e armazenamento persistente em JSON.
 
-## Funcionalidades Principais
+## Recursos Principais
 
 - 📚 **Gerenciamento de Livros**
   - Adicionar novos livros (título e autor)
   - Listar todos os livros cadastrados
+  - Visualização detalhada em tabelas organizadas
   - Visualizar status (disponível/emprestado)
 
 - 👥 **Gerenciamento de Usuários**
   - Cadastrar novos usuários
-  - Listar usuários cadastrados
+  - Listar organizada com ordenação por nome ou ID
 
 - 🔄 **Controle de Empréstimos**
   - Realizar empréstimos de livros
